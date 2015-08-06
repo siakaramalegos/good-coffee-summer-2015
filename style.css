@@ -39,3 +39,19 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
 }
+
+.footer {
+  background-color: #D64541;
+}
+
+.copy {
+  padding: 15px 15px 15px 0;
+}
+
+.footer a {
+  color: #F7FAFE;
+}
+
+.footer a:hover {
+  color: #323232;
+}
