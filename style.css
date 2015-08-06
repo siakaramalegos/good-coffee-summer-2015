@@ -55,3 +55,13 @@ body {
 .footer a:hover {
   color: #323232;
 }
+
+.modal {
+  color: #323232;
+}
+
+@media only screen and (max-width: 768px) {
+  .mission a.btn {
+    display: none;
+  }
+}
